@@ -1,0 +1,6 @@
+<groups xmlns="http://www.isdc.ro/wro">
+	<group name="datepicker">
+		<css>file:${project.basedir}/src/main/resources/less/main.less</css>
+		<js>file:${project.basedir}/src/main/javascript/**.js</js>
+	</group>
+</groups>

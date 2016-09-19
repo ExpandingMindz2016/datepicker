@@ -1,0 +1,6 @@
+<groups xmlns="http://www.isdc.ro/wro">
+	<group name="datepicker">
+		<css>file:/Users/markal/code/datepicker/src/main/resources/less/main.less</css>
+		<js>file:/Users/markal/code/datepicker/src/main/javascript/**.js</js>
+	</group>
+</groups>
